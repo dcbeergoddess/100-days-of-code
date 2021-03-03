@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+**Template**
+### Day #: March #, 2021
+##### Activities
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** 
+**Tweet:**  
+**LinkedIn:** 
+
 ### Day 0: March 1, 2021
 ##### Free Code Camp Responsive Web Design
 
@@ -12,12 +22,10 @@
 **TWEET:** Yes
 **LinkedIn:** Yes
 
-# 100 Days Of Code - Log
-
 ### Day 1: March 2, 2021
 ##### Free Code Camp Responsive Web Design Cont
 
-**Today's Progress**: MORE Free Code Camp Challenges. Getting my Brain Muscles working. Refreshed on early Positioning. Good to understand these properties. But FlexBox on other libraries allow us to better structure our code when we start writing our own big projects. 
+**Today's Progress:** MORE Free Code Camp Challenges. Getting my Brain Muscles working. Refreshed on early Positioning. Good to understand these properties. But FlexBox on other libraries allow us to better structure our code when we start writing our own big projects. 
 
 **Thoughts:** Need to really work my head around `relative` and `absolute` and `fixed` positioning. Doing good on inheritance. Similar to functions and how it matters what inherits what and how code is going to read and affected by the order. If using position `absolute` make sure parent element position rule to parent element, usually `relative`. `fixed` does not move when user scrolls. `sticky` - last one. `z-index` to create stack order for elements on top of each other (i wonder what new tech is used for that now). `margin: auto` = item center, `display: block` = img no longer inline
 
@@ -26,6 +34,17 @@
 **Tweet:**  
 **LinkedIn:** No - Only for Real Big Projects and News
 
+### Day #: March #, 2021
+##### More Free Code Camp - Responsive Web Design
+
+**Today's Progress:** Created simple website to start putting snippets for graphic and animations I'm learning to do with CSS
+
+**Thoughts:** Creating from scratch and coding is fun!! Hoping that creating this site and putting my notes into an actual website will help with remember what is available at my finger tips without having to import a ton of libraries 
+
+**Link to work:** [GITHUB PAGES](https://dcbeergoddess.github.io/free-code-camp-snippets/) || [GITHUB REPO](https://github.com/dcbeergoddess/free-code-camp-snippets)
+
+**Tweet:** YES 
+**LinkedIn:** NO
 
 
 
